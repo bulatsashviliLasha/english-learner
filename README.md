@@ -1,15 +1,5 @@
-# Web-Origo Task
+# English-learner Link here
 
-Core technologies used.
-
-```sh
-Vue 3 composition API and TailwindCSS. 
-From NPM Notyf.
-```
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
 ## Project Setup
 
@@ -28,4 +18,4 @@ npm run dev
 ```sh
 npm run build
 ```
-# english-learner
+
